@@ -1,0 +1,19 @@
+{
+  "name": "wingerjs",
+  "version": "1.0.0",
+  "description": "A library for NodeJS with quick utils",
+  "main": "index.js",
+  "repository": "https://github.com/tate2301/wingerjs",
+  "author": "Tatenda Chris <chris@devtachom.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
+    "twilio": "^3.71.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.3",
+    "tsc-node": "^0.0.3",
+    "typescript": "^4.5.2"
+  }
+}
